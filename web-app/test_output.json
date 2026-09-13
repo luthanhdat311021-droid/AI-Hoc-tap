@@ -1,0 +1,48 @@
+{
+  "lv1Branches": 6,
+  "totalNodes": 48,
+  "arrowsCount": 3,
+  "arrows": [
+    {
+      "from": "b1-1-2",
+      "to": "b6-1-1",
+      "label": "ứng dụng vào"
+    },
+    {
+      "from": "b5-1",
+      "to": "b5-2",
+      "label": "bước đệm cho"
+    },
+    {
+      "from": "b1-3-2",
+      "to": "b5-1-2",
+      "label": "dạng bài tiêu biểu"
+    }
+  ],
+  "branchTopics": [
+    {
+      "topic": "Hằng đẳng thức Bình phương",
+      "subNodes": 3
+    },
+    {
+      "topic": "Lập phương một tổng/hiệu",
+      "subNodes": 2
+    },
+    {
+      "topic": "Tổng và Hiệu hai lập phương",
+      "subNodes": 2
+    },
+    {
+      "topic": "Dạng bài: Rút gọn biểu thức",
+      "subNodes": 2
+    },
+    {
+      "topic": "Dạng bài: Phân tích & Tìm x",
+      "subNodes": 2
+    },
+    {
+      "topic": "Dạng bài: Chứng minh BĐT",
+      "subNodes": 2
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+# Dependencies
+**/node_modules/
+.pnp
+.pnp.*
+
+# Next.js & Build outputs
+**/.next/
+**/out/
+**/build/
+**/dist/
+
+# Android / Gradle
+**/.gradle/
+**/build/
+**/.idea/
+*.iml
+local.properties
+.navigation/
+captures/
+.externalNativeBuild
+.cxx/
+*.apk
+*.aab
+
+# Environment & Vercel
+.env*
+!.env.example
+**/.env*
+**/.vercel
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db

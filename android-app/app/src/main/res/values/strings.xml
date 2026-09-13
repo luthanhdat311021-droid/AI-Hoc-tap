@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Feynman AI</string>
+    <string name="offline_title">Không có kết nối Internet</string>
+    <string name="offline_desc">Vui lòng kiểm tra lại kết nối Wi-Fi hoặc dữ liệu di động của bạn để tiếp tục học tập.</string>
+    <string name="retry_button">Thử lại</string>
+</resources>
